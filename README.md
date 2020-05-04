@@ -46,4 +46,4 @@ The winning order of hands in poker is:
 
 ![](image2.png = 250x250)
 
-![](image3.png = 250x250)
+![](image3.png  width="200" height="200")
