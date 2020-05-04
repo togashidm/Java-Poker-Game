@@ -28,7 +28,7 @@ The winning order of hands in poker is:
 
 ### 2.	Flow Chart
 
- 
+ ![](poker.png) 
 
 
 
@@ -37,6 +37,6 @@ The winning order of hands in poker is:
 
 ### 3.	UML – Command Line
 
-
+ ![](uml.png)
  
  
