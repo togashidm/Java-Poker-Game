@@ -2,7 +2,7 @@
 This is a UL project to make a Poker game 
 
 ### 1. Summary
-This assignment is about coding a Poker Game. The game is between the computer (Player 1) and the human player (Player 2). The rules of the game per project specifications are:
+This project is about coding a Poker Game. The game is between the computer (Player 1) and the human player (Player 2). The rules of the game per project specifications are:
 1.	For each session, both players start with 10 tokens.
 2.	For each round, each player receives 5 cards from the deck.
 3.	The players (the code) verify if they are qualified to open, i.e., it needs to have at least a pair of “Jacks”
