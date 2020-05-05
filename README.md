@@ -38,8 +38,6 @@ The winning order of hands in poker is:
 
 ***
 ### 4.	GUI - Java FX
-<p style="text-align:center">
-<pre>
-<img src="/image1.png"  width="250" height="250">        <img src="/image2.png"  width="250" height="250">
-</pre>
-</p>
+<pre><p align="center">
+<img src="/image1.png"  width="250" height="250">   <img src="/image2.png"  width="250" height="250">
+</p></pre>
