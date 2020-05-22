@@ -1,0 +1,18 @@
+Instructions:
+
+a) Download "PokerDT.jar" in suitable folder/directory
+
+b) Certifify about the enviromental variables - you can run "java.exe" from anywhere
+	(https://www.java.com/en/download/help/path.xml)
+
+c) Certify that you have the most recent JDK version (at least jdk-13.0.1)
+	(https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
+
+d) Certify that you have JavaFx 14 x64 SDK 
+	(https://gluonhq.com/products/javafx/)
+
+e) Find the path for the JavaFx 14 installed library, in my case is
+	D:\javafx-sdk-14\lib\
+
+f) Open the Command prompt (CMD) and  run
+	java --module-path D:\javafx-sdk-14\lib\ --add-modules javafx.controls,javafx.fxml -jar PokerDT.jar
